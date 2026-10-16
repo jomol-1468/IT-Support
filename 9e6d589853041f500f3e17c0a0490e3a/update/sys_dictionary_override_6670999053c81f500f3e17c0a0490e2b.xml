@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>1</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>priority</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_2249514_it_sup_0_it_support_ticket</name>
+        <read_only>false</read_only>
+        <read_only_option/>
+        <read_only_option_override>false</read_only_option_override>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 09:55:31</sys_created_on>
+        <sys_id>6670999053c81f500f3e17c0a0490e2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>priority</sys_name>
+        <sys_package display_value="IT Support Ticket Management" source="x_2249514_it_sup_0">9e6d589853041f500f3e17c0a0490e3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket Management">9e6d589853041f500f3e17c0a0490e3a</sys_scope>
+        <sys_update_name>sys_dictionary_override_6670999053c81f500f3e17c0a0490e2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 09:55:31</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>
